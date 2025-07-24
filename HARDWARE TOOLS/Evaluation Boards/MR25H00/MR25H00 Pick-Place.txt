@@ -1,0 +1,13 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J1         HDR1X10             2992.5mil   2409.843mil     2992.5mil   1959.842mil     2992.5mil   1959.842mil  T         90.00 Header 10      
+J2         HDR1X8              1092.5mil       2150mil     1092.5mil       2500mil     1092.5mil       2500mil  T        270.00 Header 8       
+J3         HDR1X8              2992.5mil       1450mil     2992.5mil       1100mil     2992.5mil       1100mil  T         90.00 Header 8       
+J4         HDR1X6              1092.5mil       1350mil     1092.5mil       1600mil     1092.5mil       1600mil  T        270.00 Header 6       
+C1         1608[0603]            2125mil       2040mil       2125mil       2040mil   2097.441mil       2040mil  T          0.00 0603           
+D1         1.6X0.8X0.8       2042.333mil       2775mil   2042.333mil       2775mil   2012.805mil       2775mil  T          0.00 HSMG-C190      
+P1         HDR1X2                2040mil       2380mil       1990mil       2380mil       1990mil       2380mil  T        360.00 Header 2       
+R1         J1-0603               1960mil       2040mil       1960mil       2040mil   1930.473mil       2040mil  T        360.00 0603           
+R2         J1-0603               2045mil       2705mil       2045mil       2705mil   2015.473mil       2705mil  T        360.00 0402           
+U1         DFNS-MF8_PS           2045mil       1890mil       2045mil       1890mil   1934.764mil       1965mil  T          0.00 MR25H40        
+
